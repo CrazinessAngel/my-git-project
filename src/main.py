@@ -1,4 +1,5 @@
 def main():
+    # Точка входа в программу
     print("Hello, Git!")
 
 
